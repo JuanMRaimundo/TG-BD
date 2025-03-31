@@ -1,0 +1,180 @@
+id_solicitud_viaje,Fecha_creacion,Hora,Lugar_carga,Lugar_destino,Detalle,Ref,N_contenedor,Vencimiento,Estado,Observaciones,id_usuario
+21,2025-03-28,9:38,4 Annamark Crossing,San Diego,Farming/Seeds/Milling,894,BA2360,2025-04-03,CONFIRMADO,Dragline,9
+22,2025-03-28,11:26,01979 Rowland Point,Polen,Real Estate Investment Trusts,492,AZ6701,2025-04-10,PENDIENTE,Dump Truck,7
+23,2025-03-29,8:18,393 Browning Point,Liuhe,n/a,576,BA4091,2025-04-11,CANCELADO,Skid-Steer,4
+24,2025-03-29,18:46,99 Prairieview Parkway,Capanema,n/a,728,AV9215,2025-04-07,CONFIRMADO,Skid-Steer,7
+25,2025-03-29,15:11,4 Iowa Trail,Caridade,Biotechnology: In Vitro & In Vivo Diagnostic Substances,599,AM9204,2025-04-09,PENDIENTE,Scraper,9
+26,2025-03-28,16:36,364 Westridge Parkway,Pontes e Lacerda,Consumer Electronics/Video Chains,726,NZ1569,2025-04-05,CANCELADO,Skid-Steer,9
+27,2025-03-30,16:39,742 Del Sol Plaza,Bayeman,"Computer Software: Programming, Data Processing",547,LA7080,2025-04-14,CANCELADO,Dump Truck,8
+28,2025-03-28,15:37,04612 Judy Way,Sumber,Industrial Machinery/Components,345,WN8983,2025-04-06,CONFIRMADO,Compactor,4
+29,2025-03-28,14:55,6762 Scott Point,Ust-Kalmanka,Major Banks,395,UA8685,2025-04-08,CANCELADO,Grader,7
+30,2025-03-28,8:46,91083 Pierstorff Street,Kansas City,Restaurants,378,NZ9369,2025-04-12,CONFIRMADO,Crawler,6
+31,2025-03-31,16:35,32847 Homewood Street,Calheta,Major Pharmaceuticals,860,DL3408,2025-04-08,CANCELADO,Excavator,3
+32,2025-03-31,19:22,719 Bashford Court,Santo Tomas,Marine Transportation,663,AI6865,2025-04-13,PENDIENTE,Skid-Steer,6
+33,2025-03-28,13:31,20285 Prairie Rose Parkway,Jinhua,n/a,836,AM9465,2025-04-09,CONFIRMADO,Dump Truck,9
+34,2025-03-31,19:01,41304 Rowland Pass,Jieshou,Other Consumer Services,680,NH1887,2025-04-10,PENDIENTE,Dragline,9
+35,2025-03-29,19:24,69286 Heffernan Terrace,Nanhai,Major Pharmaceuticals,463,AA4011,2025-04-04,CONFIRMADO,Grader,1
+36,2025-03-30,19:21,5 Magdeline Parkway,Jaguimitan,Homebuilding,754,SQ4019,2025-04-03,CANCELADO,Trencher,9
+37,2025-03-31,10:56,33 Main Circle,Suzemka,Major Pharmaceuticals,427,BA9448,2025-04-03,CANCELADO,Scraper,3
+38,2025-03-28,18:57,71 Moulton Place,Bagansiapiapi,Shoe Manufacturing,548,KL3008,2025-04-04,CONFIRMADO,Bulldozer,7
+39,2025-03-30,17:28,86267 Packers Trail,Moya,n/a,357,TG7112,2025-04-10,PENDIENTE,Crawler,7
+40,2025-03-30,14:34,3 Gerald Road,Honggang,n/a,852,QF2863,2025-04-04,CONFIRMADO,Compactor,7
+41,2025-03-31,12:12,9 Rieder Plaza,Davyd-Haradok,"Computer Software: Programming, Data Processing",442,CX1145,2025-04-02,CANCELADO,Skid-Steer,3
+42,2025-03-28,11:53,0351 Corben Alley,Chancay,Auto Parts:O.E.M.,670,KL8886,2025-04-02,CONFIRMADO,Skid-Steer,2
+43,2025-03-28,11:33,6 Bayside Parkway,Kalemie,n/a,471,LA2475,2025-04-07,PENDIENTE,Scraper,11
+44,2025-03-30,17:57,83 Myrtle Junction,Dacheng,Paper,852,SK5287,2025-04-12,CONFIRMADO,Compactor,10
+45,2025-03-29,11:53,1958 Clarendon Hill,Kulashi,Industrial Machinery/Components,651,SA3472,2025-04-09,PENDIENTE,Dragline,10
+46,2025-03-30,13:53,0078 Hazelcrest Point,Blagnac,Electrical Products,458,QF4102,2025-04-04,PENDIENTE,Grader,1
+47,2025-03-30,17:49,051 Lighthouse Bay Place,Ranong,Wholesale Distributors,668,AF9908,2025-04-03,PENDIENTE,Scraper,6
+48,2025-03-29,8:04,934 Blue Bill Park Alley,La Esperanza,Industrial Machinery/Components,680,EK8848,2025-04-08,PENDIENTE,Skid-Steer,3
+49,2025-03-28,18:53,79 Meadow Valley Avenue,Larvik,n/a,740,NH2788,2025-04-11,CONFIRMADO,Dragline,4
+50,2025-03-29,11:00,8 Mifflin Park,Petrovskoye,n/a,722,TG4154,2025-04-05,CONFIRMADO,Dump Truck,3
+51,2025-03-29,11:29,78 Waywood Park,Ar,n/a,645,LH9130,2025-04-08,CANCELADO,Dump Truck,6
+52,2025-03-30,10:45,3 Bunker Hill Place,Taozixi,n/a,560,LA2448,2025-04-10,PENDIENTE,Skid-Steer,1
+53,2025-03-31,15:08,30 Melrose Trail,Fundacion,Major Pharmaceuticals,797,LH5129,2025-04-04,PENDIENTE,Dump Truck,9
+54,2025-03-31,19:27,91627 Fair Oaks Circle,Kuzhu,n/a,853,AI8841,2025-04-07,CANCELADO,Trencher,4
+55,2025-03-28,16:47,4 Dexter Street,Ciechanowiec,Computer Software: Prepackaged Software,861,LH3073,2025-04-07,PENDIENTE,Bulldozer,8
+56,2025-03-31,15:34,2338 Barnett Street,Perdoes,Major Banks,833,AV9867,2025-04-10,PENDIENTE,Crawler,7
+57,2025-03-29,17:21,1 East Alley,Trinidad,Industrial Machinery/Components,718,AV3620,2025-04-03,CANCELADO,Grader,2
+58,2025-03-30,16:43,89 Corry Street,Jos,Textiles,458,QR9778,2025-04-07,CONFIRMADO,Backhoe,8
+59,2025-03-29,16:50,81 Brown Trail,Tapera,Biotechnology: Laboratory Analytical Instruments,863,UA6785,2025-04-05,CONFIRMADO,Dump Truck,6
+60,2025-03-31,14:31,19559 Eagan Place,Perovo,Marine Transportation,441,ET8283,2025-04-05,CANCELADO,Crawler,3
+61,2025-03-28,12:39,74897 Lotheville Point,Xanxere,Business Services,365,AI5382,2025-04-14,CONFIRMADO,Trencher,9
+62,2025-03-30,9:19,558 Alpine Park,Argivai,Property-Casualty Insurers,718,KL3471,2025-04-04,CANCELADO,Backhoe,4
+63,2025-03-31,10:38,10 Magdeline Drive,Dschang,EDP Services,812,LH7426,2025-04-03,CANCELADO,Scraper,2
+64,2025-03-31,18:58,20034 Huxley Lane,Ryazanskaya,Medical Specialities,774,KE5983,2025-04-10,CONFIRMADO,Dragline,1
+65,2025-03-30,14:19,81895 Kipling Alley,La Concepcion,n/a,628,AC8255,2025-04-08,CONFIRMADO,Trencher,6
+66,2025-03-30,9:41,2 Division Circle,Savannah,Other Consumer Services,399,WN1167,2025-04-07,CANCELADO,Skid-Steer,10
+67,2025-03-30,9:11,42 Huxley Pass,Barengkok,Medical Specialities,552,KL4860,2025-04-06,PENDIENTE,Scraper,7
+68,2025-03-31,18:17,716 Esker Center,Xinchong,Industrial Machinery/Components,576,AV3043,2025-04-02,PENDIENTE,Trencher,5
+69,2025-03-28,13:51,56304 Kenwood Terrace,Cilolohan,RETAIL: Building Materials,439,WN7709,2025-04-07,PENDIENTE,Dump Truck,7
+70,2025-03-31,12:02,7627 Acker Court,Clermont-Ferrand,Marine Transportation,518,AF5272,2025-04-12,CONFIRMADO,Bulldozer,4
+71,2025-03-30,19:03,8899 Blue Bill Park Place,Bhatpara Abhaynagar,n/a,512,AA8220,2025-04-07,CONFIRMADO,Skid-Steer,7
+72,2025-03-28,15:05,779 Nancy Way,Sangba,Major Pharmaceuticals,786,BA3470,2025-04-03,PENDIENTE,Scraper,1
+73,2025-03-28,10:22,6 Hanover Road,Touho,Major Banks,808,QR5172,2025-04-03,CANCELADO,Compactor,9
+74,2025-03-30,10:43,7 Mcbride Crossing,Lijiaxiang,Natural Gas Distribution,461,AZ2773,2025-04-05,CONFIRMADO,Skid-Steer,10
+75,2025-03-29,11:53,6 Caliangt Crossing,El Balsamo,Building Products,733,SK1280,2025-04-03,CANCELADO,Scraper,9
+76,2025-03-29,11:09,0 North Road,Gaoming,Business Services,441,TG5603,2025-04-02,CANCELADO,Skid-Steer,5
+77,2025-03-29,12:48,38 Bayside Crossing,Vihari,Steel/Iron Ore,821,AV2744,2025-04-03,CONFIRMADO,Trencher,7
+78,2025-03-31,19:27,08396 Pawling Lane,Damatulan,Industrial Machinery/Components,860,WN5669,2025-04-14,CONFIRMADO,Dump Truck,8
+79,2025-03-28,12:22,521 Talmadge Park,Sakai,Major Pharmaceuticals,614,LA3981,2025-04-08,PENDIENTE,Backhoe,6
+80,2025-03-28,15:33,1 Village Green Terrace,Khujand,Motor Vehicles,828,KE7517,2025-04-11,PENDIENTE,Bulldozer,11
+81,2025-03-28,11:22,671 Schmedeman Street,Rammun,Other Specialty Stores,345,QR6450,2025-04-02,CONFIRMADO,Bulldozer,10
+82,2025-03-28,9:55,86773 Farragut Circle,Quinuabamba,n/a,710,DL8642,2025-04-04,CANCELADO,Dragline,5
+83,2025-03-28,8:38,344 Saint Paul Pass,Liudong,Environmental Services,544,NZ5489,2025-04-08,CONFIRMADO,Dump Truck,3
+84,2025-03-31,14:29,76012 Buhler Road,Huxi,Power Generation,660,QF1241,2025-04-11,CONFIRMADO,Excavator,8
+85,2025-03-28,8:29,00713 Dunning Drive,Sanyang,n/a,830,KL7528,2025-04-05,CANCELADO,Trencher,1
+86,2025-03-28,12:20,22932 Gerald Center,Razan,n/a,657,NH4854,2025-04-08,CONFIRMADO,Compactor,9
+87,2025-03-29,14:28,92774 Talmadge Crossing,Dois Portos,Electric Utilities: Central,335,AZ5484,2025-04-11,CONFIRMADO,Backhoe,7
+88,2025-03-29,11:21,746 Harbort Point,Heby,n/a,582,DL4964,2025-04-13,PENDIENTE,Compactor,4
+89,2025-03-28,12:02,8 Dovetail Drive,Aleg,Business Services,775,TG8790,2025-04-08,CONFIRMADO,Bulldozer,3
+90,2025-03-28,9:02,1358 Washington Way,Shums,Paints/Coatings,535,CX6909,2025-04-03,PENDIENTE,Bulldozer,6
+91,2025-03-28,13:55,24 Larry Center,Hongtian,Investment Managers,605,AA8769,2025-04-09,CONFIRMADO,Backhoe,10
+92,2025-03-28,7:47,4 Wayridge Parkway,Cincinnati,Homebuilding,838,LA9586,2025-04-09,CANCELADO,Bulldozer,10
+93,2025-03-29,11:39,30 Maple Wood Trail,Khong,n/a,611,SQ4686,2025-04-10,CANCELADO,Crawler,4
+94,2025-03-28,14:05,4 Jay Crossing,Karlskrona,n/a,823,ET4833,2025-04-03,CONFIRMADO,Crawler,10
+95,2025-03-30,15:51,07825 Hauk Center,Sayama,Major Pharmaceuticals,562,AV6412,2025-04-13,PENDIENTE,Backhoe,9
+96,2025-03-31,8:37,1 Nancy Avenue,Casal da Anja,Business Services,306,AM2579,2025-04-03,CONFIRMADO,Excavator,4
+97,2025-03-29,14:12,11098 Sunnyside Plaza,Didou,n/a,630,AI2188,2025-04-09,PENDIENTE,Grader,8
+98,2025-03-30,13:44,7620 Kensington Lane,Sentul,Auto Parts:O.E.M.,447,IB3816,2025-04-10,CONFIRMADO,Backhoe,5
+99,2025-03-30,12:02,207 Russell Point,Japerejo,Professional Services,562,CX4393,2025-04-07,PENDIENTE,Compactor,5
+100,2025-03-29,12:03,5 Roth Hill,Shibata,Business Services,776,ET6720,2025-04-14,CONFIRMADO,Scraper,9
+101,2025-03-31,12:50,29 Forest Drive,Czerniejewo,Beverages (Production/Distribution),889,AI9401,2025-04-08,PENDIENTE,Scraper,2
+102,2025-03-31,9:53,286 Warrior Junction,Joao Pinheiro,Property-Casualty Insurers,621,QF5189,2025-04-13,CANCELADO,Crawler,7
+103,2025-03-29,15:40,58 Ridgeview Avenue,Isla Verde,Precious Metals,471,TG3952,2025-04-07,CONFIRMADO,Grader,2
+104,2025-03-28,17:15,7514 Esch Circle,Vaan Giaa,n/a,409,CX5757,2025-04-09,PENDIENTE,Scraper,8
+105,2025-03-30,8:39,16 Colorado Hill,Pushkinskiye Gory,Agricultural Chemicals,630,TG8096,2025-04-13,CANCELADO,Bulldozer,10
+106,2025-03-29,12:37,189 Merrick Point,Dembi Dolo,Biotechnology: Biological Products (No Diagnostic Substances),569,IB6789,2025-04-13,CONFIRMADO,Compactor,11
+107,2025-03-30,14:17,86308 Kingsford Junction,Carregado,Professional Services,409,ET1457,2025-04-06,CANCELADO,Trencher,10
+108,2025-03-28,15:33,19 Continental Drive,Aoji-ri,Auto Parts:O.E.M.,701,NH5575,2025-04-02,CANCELADO,Excavator,10
+109,2025-03-30,18:58,052 Aberg Road,San Francisco,n/a,678,SQ9316,2025-04-02,CONFIRMADO,Trencher,9
+110,2025-03-31,11:29,28 Southridge Terrace,Batulawang,Major Pharmaceuticals,476,AZ6460,2025-04-10,PENDIENTE,Dump Truck,5
+111,2025-03-31,13:53,65 Granby Pass,Gataivai,n/a,338,QF3832,2025-04-09,CANCELADO,Excavator,2
+112,2025-03-29,9:40,0290 Comanche Park,Sorokino,Industrial Machinery/Components,310,SK6983,2025-04-10,CANCELADO,Bulldozer,3
+113,2025-03-30,14:32,12 Northview Parkway,Apodi,n/a,321,LH4362,2025-04-08,PENDIENTE,Crawler,10
+114,2025-03-29,17:55,3849 6th Lane,Lamut,Containers/Packaging,386,KL4094,2025-04-02,CANCELADO,Bulldozer,9
+115,2025-03-31,10:54,34243 Heffernan Parkway,Tolyatti,Specialty Foods,433,TG3327,2025-04-08,CONFIRMADO,Dragline,11
+116,2025-03-31,19:19,04 Beilfuss Drive,Baopukang,Packaged Foods,889,AZ7659,2025-04-05,CANCELADO,Excavator,10
+117,2025-03-29,18:04,60502 Macpherson Circle,Fengqiao,Metal Fabrications,847,CX7663,2025-04-14,CONFIRMADO,Crawler,9
+118,2025-03-29,14:49,88479 Dexter Circle,Yabluniv,Investment Managers,406,SQ2561,2025-04-05,PENDIENTE,Backhoe,3
+119,2025-03-30,9:48,00 Schlimgen Center,Yuktae-dong,n/a,648,UA9619,2025-04-06,PENDIENTE,Excavator,7
+120,2025-03-31,18:37,9 Mayfield Circle,Mendez-Nunez,n/a,510,EK1355,2025-04-05,PENDIENTE,Grader,4
+121,2025-03-31,13:55,133 Fair Oaks Court,Pengchang,Real Estate Investment Trusts,666,SQ4687,2025-04-03,PENDIENTE,Compactor,2
+122,2025-03-31,15:31,24 Morrow Drive,Xikou,Business Services,456,QR9986,2025-04-14,CANCELADO,Crawler,10
+123,2025-03-28,17:35,74 Toban Lane,Belem,n/a,727,QR5341,2025-04-12,PENDIENTE,Bulldozer,1
+124,2025-03-29,9:20,552 Glendale Parkway,Novopokrovka,n/a,662,BA8865,2025-04-05,PENDIENTE,Excavator,10
+125,2025-03-28,17:49,62221 Badeau Junction,Lujan de Cuyo,n/a,857,SA4087,2025-04-14,CONFIRMADO,Backhoe,11
+126,2025-03-29,11:30,2600 Myrtle Street,Porto Seguro,Other Pharmaceuticals,668,ET5952,2025-04-06,CANCELADO,Scraper,2
+127,2025-03-28,12:33,4 Bluestem Alley,Camatagua,Natural Gas Distribution,411,QF4696,2025-04-09,CANCELADO,Crawler,11
+128,2025-03-28,11:41,26345 Beilfuss Pass,Jianjiang,Semiconductors,601,AC2475,2025-04-14,CONFIRMADO,Grader,3
+129,2025-03-28,11:24,9776 Clarendon Crossing,Tanbu,Computer Software: Prepackaged Software,594,NH6128,2025-04-12,PENDIENTE,Trencher,5
+130,2025-03-29,10:32,5909 Farwell Trail,Miyata,Major Banks,356,DL1117,2025-04-03,CANCELADO,Bulldozer,9
+131,2025-03-30,15:52,65 Grayhawk Parkway,Nema,Major Pharmaceuticals,628,IB5239,2025-04-03,CANCELADO,Dragline,2
+132,2025-03-30,14:30,0 Shopko Drive,Gorobinci,Telecommunications Equipment,317,LH4905,2025-04-04,CONFIRMADO,Dump Truck,10
+133,2025-03-28,18:33,5 Grayhawk Trail,Dhankute,Major Banks,759,SK3030,2025-04-07,PENDIENTE,Bulldozer,4
+134,2025-03-31,16:40,58 Warbler Junction,Kisesa,Major Banks,853,KL5867,2025-04-11,CANCELADO,Dump Truck,4
+135,2025-03-30,16:08,9400 Mcguire Pass,Oakrebro,Military/Government/Technical,759,EK8568,2025-04-10,CANCELADO,Skid-Steer,9
+136,2025-03-31,19:02,508 Dunning Parkway,Synevyr,n/a,561,WN9691,2025-04-09,CANCELADO,Excavator,4
+137,2025-03-30,18:31,67 Manitowish Alley,High Prairie,Packaged Foods,449,AZ2159,2025-04-02,CONFIRMADO,Compactor,8
+138,2025-03-31,12:13,18925 Namekagon Circle,StrykOw,n/a,457,QR5341,2025-04-02,CANCELADO,Scraper,7
+139,2025-03-30,10:22,9962 Bayside Place,Patquia,Air Freight/Delivery Services,305,WN7861,2025-04-09,CANCELADO,Dragline,7
+140,2025-03-28,8:33,6763 Melrose Park,Fonte da Vaca,Telecommunications Equipment,361,WN2179,2025-04-13,CANCELADO,Scraper,10
+141,2025-03-28,14:44,5 Bayside Park,Borek Wielkopolski,Computer Communications Equipment,412,AC3914,2025-04-07,CONFIRMADO,Dragline,8
+142,2025-03-31,7:58,96 Red Cloud Circle,Checacupe,Real Estate Investment Trusts,542,TG9446,2025-04-03,PENDIENTE,Dump Truck,7
+143,2025-03-28,17:51,752 Scott Court,Tallahassee,Computer peripheral equipment,653,WN4624,2025-04-10,PENDIENTE,Dragline,9
+144,2025-03-30,17:59,26982 Shasta Lane,Temandangjero,n/a,375,TG1711,2025-04-09,CONFIRMADO,Dragline,1
+145,2025-03-31,9:56,87051 Pine View Junction,Tanzybey,n/a,684,NH9219,2025-04-12,CONFIRMADO,Skid-Steer,7
+146,2025-03-31,18:20,802 Susan Way,Mawa,Oil & Gas Production,480,BA1149,2025-04-02,CONFIRMADO,Crawler,7
+147,2025-03-29,16:04,0792 Mesta Park,Berlin,Metal Fabrications,625,AF2033,2025-04-02,PENDIENTE,Grader,4
+148,2025-03-28,11:42,2815 Schiller Way,Xiawa,n/a,846,AZ9379,2025-04-13,CONFIRMADO,Grader,3
+149,2025-03-29,13:25,31409 Forest Parkway,Fantan,Industrial Specialties,635,AZ3832,2025-04-09,CONFIRMADO,Dragline,3
+150,2025-03-28,17:45,54751 Roxbury Trail,Mandala,Commercial Banks,439,LA1106,2025-04-07,PENDIENTE,Grader,7
+151,2025-03-30,7:52,2549 Village Green Place,Richky,Industrial Machinery/Components,857,WN9133,2025-04-02,CONFIRMADO,Compactor,5
+152,2025-03-29,12:37,77374 Arizona Park,Shimabara,Major Banks,789,NH7496,2025-04-13,CONFIRMADO,Crawler,8
+153,2025-03-29,10:43,94 Mayfield Point,Bekondo,Oilfield Services/Equipment,341,NH3493,2025-04-11,CONFIRMADO,Grader,4
+154,2025-03-29,8:46,0 Browning Way,Skara,Life Insurance,573,KL8123,2025-04-05,CANCELADO,Trencher,6
+155,2025-03-30,15:47,94795 Mitchell Way,Toufang,Miscellaneous,440,NZ2829,2025-04-07,PENDIENTE,Dump Truck,5
+156,2025-03-31,18:17,639 Anhalt Parkway,Kitcharao,n/a,894,CX5558,2025-04-09,CONFIRMADO,Grader,4
+157,2025-03-28,14:46,64866 Warrior Center,Novyy Oskol,n/a,569,SA8535,2025-04-11,CANCELADO,Bulldozer,10
+158,2025-03-29,16:50,81117 American Ash Street,Guifeng,Major Banks,866,TG8950,2025-04-12,CONFIRMADO,Excavator,2
+159,2025-03-29,10:19,47 Mcguire Court,Elancourt,Transportation Services,490,SK9394,2025-04-10,CONFIRMADO,Backhoe,11
+160,2025-03-31,17:00,40 Algoma Pass,Radojevo,n/a,669,SK4469,2025-04-05,CANCELADO,Dump Truck,1
+161,2025-03-30,13:44,890 Truax Circle,Poggio di Chiesanuova,Shoe Manufacturing,390,SA7154,2025-04-02,CONFIRMADO,Trencher,6
+162,2025-03-31,10:28,86 Rowland Crossing,Bogatynia,Computer Software: Prepackaged Software,493,SA8008,2025-04-13,CONFIRMADO,Crawler,6
+163,2025-03-31,11:38,0 Briar Crest Street,Joubb Jannine,Recreational Products/Toys,717,NH4271,2025-04-11,CONFIRMADO,Backhoe,8
+164,2025-03-29,10:47,24455 Erie Terrace,Oropos,Real Estate Investment Trusts,417,IB1590,2025-04-09,CANCELADO,Bulldozer,10
+165,2025-03-28,13:54,973 Carey Crossing,Ebolowa,Major Chemicals,893,KE2609,2025-04-13,CONFIRMADO,Dump Truck,1
+166,2025-03-30,11:56,29706 Myrtle Street,Kokaj,n/a,761,IB1849,2025-04-02,PENDIENTE,Dump Truck,11
+167,2025-03-31,7:38,99 Dryden Terrace,San Juan,Medical/Dental Instruments,385,TG3165,2025-04-04,CONFIRMADO,Excavator,11
+168,2025-03-28,18:57,1 Eggendart Street,Askersund,Major Banks,883,SK7263,2025-04-03,CONFIRMADO,Backhoe,7
+169,2025-03-28,14:05,963 Maywood Park,BAchatOw,Computer Software: Prepackaged Software,851,AZ1933,2025-04-07,PENDIENTE,Dump Truck,8
+170,2025-03-30,8:06,56243 Declaration Plaza,Semikarakorsk,Meat/Poultry/Fish,623,TG4162,2025-04-13,CONFIRMADO,Scraper,2
+171,2025-03-28,16:34,55 Kedzie Place,Buarcos,n/a,682,ET5759,2025-04-03,PENDIENTE,Bulldozer,1
+172,2025-03-28,17:07,9 Basil Hill,Thorpe,Major Pharmaceuticals,863,ET3060,2025-04-08,CONFIRMADO,Bulldozer,10
+173,2025-03-30,19:21,7082 Golf Course Parkway,Portela,Electric Utilities: Central,805,KE1458,2025-04-07,CANCELADO,Dump Truck,11
+174,2025-03-31,14:23,8 Portage Trail,Zwolle,Finance: Consumer Services,644,SK7017,2025-04-14,CANCELADO,Compactor,3
+175,2025-03-31,10:05,359 Texas Circle,Genteng,Auto Manufacturing,818,KE3828,2025-04-02,PENDIENTE,Crawler,8
+176,2025-03-29,11:52,5 Arrowood Crossing,Kafr ad Dawwar,n/a,848,BA1583,2025-04-06,PENDIENTE,Bulldozer,8
+177,2025-03-29,10:10,98583 Golden Leaf Center,Ugba,Consumer Specialties,558,AI2581,2025-04-13,PENDIENTE,Compactor,5
+178,2025-03-31,15:31,35 Mosinee Street,Amado Nervo,n/a,412,AI1615,2025-04-13,PENDIENTE,Backhoe,10
+179,2025-03-30,15:51,1 Fisk Way,Cijeungjing Kaler,Medical/Dental Instruments,697,LH1606,2025-04-02,CANCELADO,Skid-Steer,4
+180,2025-03-28,17:40,8914 Moose Point,Linkoping,EDP Services,547,AF8339,2025-04-06,PENDIENTE,Crawler,11
+181,2025-03-29,13:48,3818 Grayhawk Place,Taouloukoult,Industrial Specialties,421,NZ4615,2025-04-03,CONFIRMADO,Trencher,11
+182,2025-03-28,10:03,1105 Southridge Circle,Orita Eruwa,n/a,414,IB1185,2025-04-06,CANCELADO,Skid-Steer,4
+183,2025-03-29,11:32,5039 Hoepker Pass,Taclobo,Major Banks,559,AV5663,2025-04-02,CONFIRMADO,Excavator,5
+184,2025-03-28,12:20,1 Fulton Parkway,Muliang,Major Pharmaceuticals,343,UA4737,2025-04-04,PENDIENTE,Grader,10
+185,2025-03-29,19:06,9 Eagan Park,Akkol,Savings Institutions,331,CX4626,2025-04-05,CANCELADO,Trencher,11
+186,2025-03-30,10:23,07 Porter Point,Burtunay,Natural Gas Distribution,887,AI6017,2025-04-12,PENDIENTE,Trencher,11
+187,2025-03-30,14:14,94320 Havey Junction,Lac La Biche,Military/Government/Technical,734,AZ3195,2025-04-03,CONFIRMADO,Excavator,3
+188,2025-03-30,12:04,2 Oak Trail,Andoany,Electrical Products,443,AF3537,2025-04-11,CANCELADO,Excavator,7
+189,2025-03-30,13:29,8 Golf View Center,El Estor,Forest Products,367,CX9277,2025-04-03,CONFIRMADO,Scraper,4
+190,2025-03-29,18:19,88591 Sunnyside Avenue,Lazaro Cardenas,Construction/Ag Equipment/Trucks,351,BA6528,2025-04-05,CONFIRMADO,Excavator,5
+191,2025-03-28,18:44,94442 Crownhardt Avenue,Przemet,n/a,472,QF1885,2025-04-04,CONFIRMADO,Compactor,1
+192,2025-03-31,9:48,9 Debs Pass,Kekeri,Biotechnology: Biological Products (No Diagnostic Substances),515,AM3096,2025-04-10,PENDIENTE,Compactor,7
+193,2025-03-29,7:59,919 Carberry Place,Nandulehe,Electric Utilities: Central,646,NZ5909,2025-04-05,CONFIRMADO,Excavator,4
+194,2025-03-30,15:26,321 Browning Parkway,Piedra del Aguila,Broadcasting,475,SK1333,2025-04-03,CONFIRMADO,Crawler,11
+195,2025-03-29,19:13,834 Summerview Street,Baiyang,Major Banks,315,KE7799,2025-04-11,CONFIRMADO,Skid-Steer,6
+196,2025-03-28,7:50,60445 Anzinger Trail,Zhongchuan,Real Estate,472,KL8812,2025-04-13,CONFIRMADO,Crawler,4
+197,2025-03-28,17:33,67 Brentwood Alley,Sacramento,Savings Institutions,487,AV7654,2025-04-05,PENDIENTE,Excavator,3
+198,2025-03-31,16:43,75521 Jenifer Place,Kolondieba,Electrical Products,518,WN1688,2025-04-09,PENDIENTE,Dump Truck,5
+199,2025-03-31,7:43,078 Russell Drive,Pinglin,Radio And Television Broadcasting And Communications Equipment,740,AM4292,2025-04-11,CONFIRMADO,Skid-Steer,7
