@@ -278,7 +278,7 @@ SELECT
     sv.Vencimiento,
     sv.Estado AS Estado_solicitud,
     sv.Observaciones,
-    sv.id_usuario,
+    CONCAT(u.Nombre, ' - ', u.Email) AS Usuario,
     vc.Fecha_creacion AS Fecha_confirmacion,
     CONCAT(c.Nombre, ' ', c.Apellido) AS Conductor,
     c.Tipo AS Tipo_conductor,
@@ -288,6 +288,8 @@ FROM
     viajes_confirmados vc
 JOIN 
     solicitudes_viajes sv ON vc.id_solicitud_viaje = sv.id_solicitud_viaje
+JOIN
+    usuarios u ON sv.id_usuario=u.id_usuario	
 JOIN 
     conductores c ON vc.id_conductor = c.id_conductor
 LEFT JOIN 
